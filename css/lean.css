@@ -140,7 +140,7 @@ a:visited {
   /* height: 80px; */
   background-color: white;
   box-shadow: 0 0 10px #ddd;
-  /* padding: 20px; */
+  padding: 20px;
   z-index: 2;
 }
 
